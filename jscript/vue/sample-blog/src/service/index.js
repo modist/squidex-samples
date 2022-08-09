@@ -1,6 +1,6 @@
 const CONFIG = {
     url: 'https://squidex-wtmap.azurewebsites.net',
-    appName: 'Blog',
+    appName: 'blog',
     clientId: 'blog:website',
     clientSecret: 'snikbckjj2q5k98fqrf82aawrvbi2kimv9rxtspnymgx'
 };
