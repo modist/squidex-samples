@@ -1,8 +1,8 @@
 const CONFIG = {
-    url: 'https://squidex-wtmap.azurewebsites.net',
+    url: 'https://cloud.squidex.io',
     appName: 'Blog',
-    clientId: 'blog:default',
-    clientSecret: 'x0b4srhfiujhe8obizlsdaaa4agudoisodb4u1mjuzgx'
+    clientId: 'sample-blog:blog',
+    clientSecret: 'ZxmQGgouOUmyVU4fh38QOCqKja3IH1vPu1dUx40KDec='
 };
 
 function getBearerToken() {
